@@ -1,4 +1,4 @@
-
+Hi!
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
@@ -7,10 +7,6 @@
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=antimx&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antimx&theme=radical&layout=compact) |
-
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=antimx&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 
 ![Profile views](https://gpvc.arturio.dev/antimx) ![GitHub top language](https://img.shields.io/github/languages/top/antimx/README) ![GitHub language count](https://img.shields.io/github/languages/count/antimx/README)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/antimx/README)
