@@ -1,12 +1,12 @@
-Hi!
+
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![@mukhlismdt's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=antimx&hide_border=true&theme=redical)
 
-| .                                                                                                                                       | .                                                                                                                         |
+| Stats                                                                                                                                       | Used Language(s)                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=antimx&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antimx&theme=radical&layout=compact) |
+| ![antimx's github stats](https://github-readme-stats.vercel.app/api?username=antimx&show_icons=true&theme=radical&include_all_commits=true) | ![antimx's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antimx&theme=radical&layout=compact) |
 
 ![Profile views](https://gpvc.arturio.dev/antimx) ![GitHub top language](https://img.shields.io/github/languages/top/antimx/README) ![GitHub language count](https://img.shields.io/github/languages/count/antimx/README)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/antimx/README)
@@ -16,7 +16,7 @@ Hi!
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/antimx/antimx"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/antimx/antimx/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
+    <a href="https://github.com/antimx/antimx/stargazers"><img src="https://img.shields.io/github/stars/antimx/antimx.svg?logo=github"></a>
     <a href="https://github.com/antimx/antimx/network/members"><img src="https://img.shields.io/github/forks/antimx/antimx.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=antimx.antimx" alt="visitors"/>   
 </p>
