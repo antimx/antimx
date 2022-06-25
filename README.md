@@ -1,7 +1,7 @@
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph
+### mukhlis's activity graph
 ![@mukhlismdt's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=antimx&hide_border=true&theme=redical)
 
 | Stats                                                                                                                                       | Used Language(s)                                                                                                                         |
