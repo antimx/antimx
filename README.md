@@ -1,12 +1,13 @@
 
 
 <!--   GitHub stats graph -->
-### mukhlis's activity graph
-![@mukhlismdt's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=antimx&hide_border=true&theme=redical)
+
+![@mukhlismdt's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=antimx&hide_border=true&theme=dracula)
 
 | Stats                                                                                                                                       | Used Language(s)                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![antimx's github stats](https://github-readme-stats.vercel.app/api?username=antimx&show_icons=true&theme=radical&include_all_commits=true) | ![antimx's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antimx&theme=radical&layout=compact) |
+| ![antimx's github stats](https://github-readme-stats.vercel.app/api?username=antimx&show_icons=true&theme=dracula&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-pereira&theme=dracula&layout=compact)]()
+ 
 
 ![Profile views](https://gpvc.arturio.dev/antimx) ![GitHub top language](https://img.shields.io/github/languages/top/antimx/README) ![GitHub language count](https://img.shields.io/github/languages/count/antimx/README)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/antimx/README)
